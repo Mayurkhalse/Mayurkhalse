@@ -16,22 +16,39 @@
 
 ---
 
-## 🚀 What I'm Building
+## 🏗️ Projects
 
-| Project | Stack | Status |
-|--------|-------|--------|
-| 🛒 E-commerce T-shirt Customization Platform | MERN Stack | 🔨 In Progress |
-| ✍️ Shayari Management Web App | MERN + Auth | 🔨 In Progress |
-| 📈 Stock Market Prediction Model | Python, ML/DL | 🔨 In Progress |
-| 🧠 Dementia Support (Cognitive Care App) | Full Stack + AI | 🔨 In Progress |
+### 🧠 Cognitwin – AI Multi-Agent Health Intelligence Platform · [GitHub](https://github.com/Mayurkhalse/Cognitwin)
+`Python` `XGBoost` `Scikit-learn` `FastAPI` `React` `OpenRouter`
+
+- 16-model ensemble analyzing cognitive, physiological, behavioral & environmental health indicators
+- 4-agent LLM workflow generating personalized health insights and recommendations
+- Simulation & forecasting modules for real-time risk analysis under changing user conditions
 
 ---
 
-## 🏗️ Notable Projects
+### 🌿 BloomWatch – Geospatial Bloom Stage & Crop Prediction System · [GitHub](https://github.com/Mayurkhalse/Bloomwatch)
+`Python` `XGBoost` `FastAPI` `React` `Leaflet` `MODIS Satellite Data`
 
-🔐 **Anti-Theft Smart Door Mat** — Arduino + GSM + Face Recognition + Web Dashboard  
-🧠 **Cognitive Care Web App** — Assistive platform for dementia patients  
-📈 **Stock Market Prediction** — ML/DL models for price forecasting  
+- ML models trained on MODIS satellite-derived environmental features for bloom-stage and crop prediction
+- Generated 11,520 future forecasts exposed through FastAPI endpoints
+- React + Leaflet dashboard for geospatial visualization and agricultural analysis
+
+---
+
+### ⛽ Fuel Indeed – Fuel Tracking & Management App
+`Java` `Servlets` `MySQL`
+
+- Fuel tracking system actively used by 25+ users
+- Improved fuel log accuracy by 30% through automated record management and reporting
+
+---
+
+### 🔐 Anti-Theft Smart Door Mat
+`Python` `OpenCV` `Arduino` `GSM Module`
+
+- Integrated Arduino, GSM module, and OpenCV face recognition for intrusion detection
+- Real-time SMS alerts; demonstrated at hackathons and project exhibitions
 
 ---
 
@@ -40,8 +57,8 @@
 **Frontend:** React · Vite · Tailwind CSS · TypeScript  
 **Backend:** Node.js · Express.js · FastAPI  
 **Database:** MongoDB · MySQL · Firebase  
-**ML/Data:** Python · NumPy · Pandas · Scikit-learn · Matplotlib  
-**Hardware:** Arduino · OpenCV · Face Recognition  
+**ML/Data:** Python · XGBoost · Scikit-learn · NumPy · Pandas · Matplotlib  
+**Hardware:** Arduino · OpenCV · GSM  
 **Deploy:** Vercel · Render · Netlify  
 
 ---
